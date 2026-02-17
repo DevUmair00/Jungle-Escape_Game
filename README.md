@@ -42,4 +42,18 @@ The project focuses on:
 ## 🛠 Tech Stack
 
 - Language: C#
-- Platform: .NET
+- Platform: .NET (Desktop Application)
+- IDE: Visual Studio
+- Architecture: Custom OOP-Based Framework
+
+---
+
+## 📂 Project Structure
+
+- Game Engine / Framework
+- Player Class
+- Enemy Class
+- Level Manager
+- Game Controller
+- UI Components
+
